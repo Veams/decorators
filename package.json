@@ -1,0 +1,19 @@
+{
+  "name": "@veams/decorators",
+  "version": "1.0.0",
+  "description": "Decorators for Veams framework. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Veams/decorators.git"
+  },
+  "author": "Sebastian Fitzner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Veams/decorators/issues"
+  },
+  "homepage": "https://github.com/Veams/decorators#readme"
+}
